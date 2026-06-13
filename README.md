@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 # Hybrid Hexapod Robot - "Hexy"
 
 > A six-legged hybrid robot capable of moving using both walking and wheeled locomotion. Developed as a university engineering project focused on mechanical design, prototyping, and robotics integration.
@@ -97,4 +95,3 @@ The project involved:
 * https://github.com/metal-kosz
 
 University project developed as engineering thesis.
->>>>>>> Stashed changes

@@ -4,7 +4,9 @@
 
 
 > Basic movement
-![MOV_0004_2.mp4](Hexy-20251124T231509Z-1-002/Hexy/hex v4.0/filmy/basicMovementV4.mp4)
+
+[basicMovementv4.mp4](Hexy-20251124T231509Z-1-002/Hexy/hex%20v4.0/filmy/basicMovementv4.mp4)
+
 ## Project Overview
 
 This project presents a hybrid hexapod robot that combines the stability of a six-legged platform with the efficiency of wheeled locomotion. The robot was designed and developed through multiple design iterations, gradually improving mechanical reliability, mobility, and manufacturability.

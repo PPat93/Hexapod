@@ -1,1 +1,0 @@
-Hexapod "Hexy" was my 2016-2017 university project.

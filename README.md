@@ -92,6 +92,6 @@ The project involved:
 # Authors
 
 * Piotr Paterek
-* @metal-kosz
+* [@metal-kosz](https://github.com/metal-kosz)
 
 University project developed as engineering thesis.

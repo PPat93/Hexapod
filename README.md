@@ -5,7 +5,7 @@
 
 > Basic movement
 
-![fastMovement.mp4](Hexy-20251124T231509Z-1-002/Hexy/hex%20v4.0/clips/fastMovement.mp4)
+![fastMovement.gif](Hexy-20251124T231509Z-1-002/Hexy/hex%20v4.0/clips/fastMovement.gif)
 
 ## Project Overview
 
